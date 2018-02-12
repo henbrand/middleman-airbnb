@@ -1,0 +1,17 @@
+paris:
+  name: "sebastien's"
+  country: 'france'
+  desc: 'Charming room in Montmartre'
+  username: 'ssaunier'
+tokyo:
+  name: "boris's"
+  country: 'JAPAN'
+  desc: 'Small flat in Tokyo'
+  username: 'Papillard'
+london:
+  name: "romain's"
+  country: 'uk'
+  desc: 'Nice flat in Picadilly'
+  username: 'Monsieurpaillard'
+
+# dont forget if apostrophys  '' use " "

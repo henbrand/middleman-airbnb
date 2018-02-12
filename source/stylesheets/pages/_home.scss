@@ -1,14 +1,20 @@
 #home {
-  background-color: #D23333;
+  background-size: cover;
   color: white;
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
   text-align: center;
+
+#banner {
+  background-size: cover;
+}
+
   p {
     margin-top: 1.5em;
   }
+
   a {
     color: rgba(0,0,0,0.4);
     font-weight: bold;
